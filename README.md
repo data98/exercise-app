@@ -1,6 +1,6 @@
 # Exercise App
 
-This project is an exercise app made with react, react-router, material UI, etc.
+This project is an exercise app made with react, react-router, material UI, RapidAPIs etc.
 
 ## Hosting Link
 
